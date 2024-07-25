@@ -1,0 +1,85 @@
+
+    .a1{
+        background-image: url("https://hips.hearstapps.com/hmg-prod/images/nature-quotes-landscape-1648265299.jpg");
+        height: 600px;
+        width: 100%;
+        background-size: cover;
+        
+    }
+    .a1 h3{
+        text-align: left;
+    }
+    .a2{
+        background-color: white;
+        height: 200px;
+        width: 220px;
+        margin-left: 50px;
+        margin-top: 250px;
+        
+    }
+    .a3{
+        border: solid 1px rgb(14, 3, 3);
+        height: 180px;
+        width: 180px;
+        padding-left: 20px;
+        margin-left: 9px;
+        margin-top:10px;
+       
+    }
+    .a3:hover{
+        background-color: cadetblue;
+    }
+    .a3 h2{
+        text-align: center;
+    }
+.a3 p{
+    font-size: small;
+}
+.a3 button{
+     margin-left: 45px;
+     background-color: yellow;
+}
+.a3 button:hover{
+background-color: blue;
+color: black;
+cursor: pointer;
+}
+
+.a4{
+    margin-left: 65%;
+    word-spacing: 15px;
+}
+.a4 a{
+    text-decoration: none;
+}
+.a2{
+    margin-left: 220px;
+  padding-top: 1px;
+  
+}
+.a5 h3{
+    text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.a5 p{
+   text-align: center;
+}
+.a7 {
+    text-align: center;
+    word-spacing: 40px;
+    line-height: 60px;
+    
+}
+.image{
+  width: 100%;
+   
+}
+.a8 img{
+    height: 250px;
+    width: 350px;
+    padding: 5px;
+    display: inline block;
+   
+   
+}
